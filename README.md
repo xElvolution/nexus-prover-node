@@ -116,4 +116,4 @@ To keep Nexus running in the background, use a `screen` session:
 ---
 
 ## Support
-For additional assistance or to report issues, visit the [Nexus Documentation](https://nexus.xyz/docs) and forget to follow on twiiter https://x.com/0xElvolution
+For additional assistance or to report issues, visit the [Nexus Documentation](https://docs.nexus.xyz/network/cli) and forget to follow on twiiter https://x.com/0xElvolution
